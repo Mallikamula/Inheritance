@@ -1,1 +1,1 @@
-# Inheritance
+# Types of Inheritance programs
